@@ -12,6 +12,16 @@ sys.path.insert(0, str(Path(__file__).parent / 'src'))
 
 from user_manager import UserManager
 
+# Compatibility wrapper for st.switch_page
+def switch_page(page_path):
+    """Navigate to another page with fallback for older Streamlit versions"""
+    try:
+        st.switch_page(page_path)
+    except AttributeError:
+        # Fallback for Streamlit < 1.28
+        st.session_state['redirect_to'] = page_path
+        st.rerun()
+
 
 def initialize_auth_session():
     """Initialize authentication session state variables."""
