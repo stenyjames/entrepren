@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-11-22T08:54:02.864170",
+  "prices": {
+    "Laptop": {
+      "Amazon": 1112.31,
+      "Walmart": 849.62,
+      "Best Buy": 941.66,
+      "Target": 797.06,
+      "eBay": 1027.36
+    },
+    "Smartphone": {
+      "Amazon": 911.04,
+      "Best Buy": 719.69,
+      "Target": 706.71,
+      "eBay": 735.57
+    },
+    "Headphones": {
+      "Amazon": 237.6,
+      "Walmart": 180.25,
+      "Best Buy": 229.37,
+      "Target": 196.77
+    },
+    "USB Cable": {
+      "Amazon": 11.73,
+      "Walmart": 9.49,
+      "Target": 9.08,
+      "eBay": 11.46
+    },
+    "Keyboard": {
+      "Amazon": 101.99,
+      "Best Buy": 95.89,
+      "Walmart": 77.81,
+      "Target": 83.19
+    },
+    "Monitor": {
+      "Amazon": 343.69,
+      "Best Buy": 327.22,
+      "Walmart": 279.4
+    },
+    "Mouse": {
+      "Amazon": 36.5,
+      "Walmart": 32.68,
+      "Best Buy": 31.87,
+      "Target": 28.92,
+      "eBay": 36.89
+    }
+  }
+}

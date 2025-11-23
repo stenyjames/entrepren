@@ -1,0 +1,28 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="newGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="newGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main background circle -->
+  <circle cx="128" cy="128" r="125" fill="#ffffff" stroke="url(#newGrad1)" stroke-width="3"/>
+  
+  <!-- Central hexagon shape -->
+  <polygon points="128,50 180,80 180,145 128,175 76,145 76,80" fill="url(#newGrad1)"/>
+  
+  <!-- Inner hexagon accent -->
+  <polygon points="128,62 172,88 172,138 128,162 84,138 84,88" fill="url(#newGrad2)"/>
+  
+  <!-- Top dollar sign section -->
+  <g>
+    <text x="128" y="120" font-size="48" font-weight="bold" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif">$</text>
+  </g>
+  
+
+</svg>

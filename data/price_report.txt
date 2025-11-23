@@ -1,0 +1,115 @@
+======================================================================
+                       PRICE COMPARISON REPORT                        
+======================================================================
+Generated: 2025-11-22 08:54:02
+
+SUMMARY
+----------------------------------------------------------------------
+Total Products: 7
+Total Potential Savings: $676.02
+
+DETAILED COMPARISONS
+----------------------------------------------------------------------
+
+HEADPHONES
+  Best Deal:
+    Store: Walmart
+    Price: $180.25
+  All Prices:
+    Walmart: $180.25
+    Target: $196.77
+    Best Buy: $229.37
+    Amazon: $237.60
+  Statistics:
+    Average Price: $211.00
+    Price Range: $180.25 - $237.60
+    Potential Savings: $57.35 (24.1%)
+
+KEYBOARD
+  Best Deal:
+    Store: Walmart
+    Price: $77.81
+  All Prices:
+    Walmart: $77.81
+    Target: $83.19
+    Best Buy: $95.89
+    Amazon: $101.99
+  Statistics:
+    Average Price: $89.72
+    Price Range: $77.81 - $101.99
+    Potential Savings: $24.18 (23.7%)
+
+LAPTOP
+  Best Deal:
+    Store: Target
+    Price: $797.06
+  All Prices:
+    Target: $797.06
+    Walmart: $849.62
+    Best Buy: $941.66
+    eBay: $1027.36
+    Amazon: $1112.31
+  Statistics:
+    Average Price: $945.60
+    Price Range: $797.06 - $1112.31
+    Potential Savings: $315.25 (28.3%)
+
+MONITOR
+  Best Deal:
+    Store: Walmart
+    Price: $279.40
+  All Prices:
+    Walmart: $279.40
+    Best Buy: $327.22
+    Amazon: $343.69
+  Statistics:
+    Average Price: $316.77
+    Price Range: $279.40 - $343.69
+    Potential Savings: $64.29 (18.7%)
+
+MOUSE
+  Best Deal:
+    Store: Target
+    Price: $28.92
+  All Prices:
+    Target: $28.92
+    Best Buy: $31.87
+    Walmart: $32.68
+    Amazon: $36.50
+    eBay: $36.89
+  Statistics:
+    Average Price: $33.37
+    Price Range: $28.92 - $36.89
+    Potential Savings: $7.97 (21.6%)
+
+SMARTPHONE
+  Best Deal:
+    Store: Target
+    Price: $706.71
+  All Prices:
+    Target: $706.71
+    Best Buy: $719.69
+    eBay: $735.57
+    Amazon: $911.04
+  Statistics:
+    Average Price: $768.25
+    Price Range: $706.71 - $911.04
+    Potential Savings: $204.33 (22.4%)
+
+USB CABLE
+  Best Deal:
+    Store: Target
+    Price: $9.08
+  All Prices:
+    Target: $9.08
+    Walmart: $9.49
+    eBay: $11.46
+    Amazon: $11.73
+  Statistics:
+    Average Price: $10.44
+    Price Range: $9.08 - $11.73
+    Potential Savings: $2.65 (22.6%)
+
+======================================================================
+                            END OF REPORT                             
+======================================================================

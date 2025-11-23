@@ -1,0 +1,49 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="256" height="256" fill="#f0f7ff" rx="32"/>
+  
+  <!-- Outer circle -->
+  <circle cx="128" cy="128" r="110" fill="none" stroke="#2563eb" stroke-width="3"/>
+  
+  <!-- Upward arrow body (main element) -->
+  <g transform="translate(128, 128)">
+    <!-- Arrow shaft -->
+    <rect x="-8" y="-40" width="16" height="60" fill="#2563eb" rx="4"/>
+    
+    <!-- Arrow head - triangle pointing up -->
+    <polygon points="0,-45 -20,-20 20,-20" fill="#10b981"/>
+    
+    <!-- Dollar signs on sides of arrow -->
+    <g transform="translate(-35, -15)">
+      <text x="0" y="8" font-size="24" font-weight="bold" fill="#3b82f6" text-anchor="middle">$</text>
+    </g>
+    
+    <g transform="translate(35, -15)">
+      <text x="0" y="8" font-size="24" font-weight="bold" fill="#10b981" text-anchor="middle">$</text>
+    </g>
+    
+    <!-- Coins/savings indicator at bottom -->
+    <circle cx="-15" cy="30" r="6" fill="#f59e0b" opacity="0.8"/>
+    <circle cx="0" cy="32" r="6" fill="#f59e0b" opacity="0.8"/>
+    <circle cx="15" cy="30" r="6" fill="#f59e0b" opacity="0.8"/>
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="60" cy="100" r="3" fill="#3b82f6" opacity="0.6"/>
+  <circle cx="196" cy="100" r="3" fill="#10b981" opacity="0.6"/>
+  <circle cx="50" cy="180" r="2" fill="#f59e0b" opacity="0.5"/>
+  <circle cx="206" cy="180" r="2" fill="#f59e0b" opacity="0.5"/>
+  
+  <!-- Upward trend lines -->
+  <g stroke="#2563eb" stroke-width="1.5" stroke-linecap="round" opacity="0.4">
+    <line x1="80" y1="200" x2="85" y2="190"/>
+    <line x1="85" y1="190" x2="95" y2="195"/>
+    <line x1="95" y1="195" x2="105" y2="180"/>
+  </g>
+  
+  <g stroke="#10b981" stroke-width="1.5" stroke-linecap="round" opacity="0.4">
+    <line x1="151" y1="200" x2="156" y2="190"/>
+    <line x1="156" y1="190" x2="166" y2="195"/>
+    <line x1="166" y1="195" x2="176" y2="180"/>
+  </g>
+</svg>

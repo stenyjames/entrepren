@@ -1,0 +1,16 @@
+{
+  "demo": {
+    "password": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+    "email": "demo@stockup.app",
+    "created_at": "2025-11-22T09:11:59.374879",
+    "location_tracking": true,
+    "location_permission": false,
+    "preferences": {
+      "theme": "light",
+      "notifications": true,
+      "favorite_stores": [],
+      "favorite_products": [],
+      "location": "India"
+    }
+  }
+}
